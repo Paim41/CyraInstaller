@@ -1,0 +1,23 @@
+Cyra is a fork of Gili. The original MIT license and Maulana copyright
+notice are reproduced above and installed as LICENSE.
+
+Lato Regular and Bold: SIL Open Font License 1.1.
+The full original copyright notice and license are included below and
+installed as licenses/Lato-OFL.txt and assets/cyra/fonts/OFL.txt.
+
+qpdf 12.4.2: Apache License 2.0, copyright Jay Berkenbilt and Manfred Holger.
+The upstream NOTICE and full Apache license are included below and in
+licenses/qpdf-NOTICE.txt and licenses/qpdf-LICENSE.txt.
+Unmodified qpdf binaries and their accompanying Microsoft Visual C++ runtime
+DLLs are from the upstream Windows binary distribution. Those Microsoft
+runtime components retain Microsoft's applicable redistribution terms;
+Cyra's MIT license does not relicense them.
+
+Optional PDF-to-Word components are not bundled: pdf2docx (MIT), PyMuPDF
+(AGPL/commercial), Python and their dependencies require separate installation.
+Microsoft Word is proprietary and separately licensed; it is not bundled.
+
+Windows supplies its system fonts/icons and platform services. Cyra's supplied
+branding and mascot images are included as provided for this project.
+Third-party names and marks identify their respective products; no endorsement
+is implied. See INSTALLATION.txt for prerequisites and limitations.
